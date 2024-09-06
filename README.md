@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/d0fd1575-be9f-4a32-b7b8-cd6ae17970ea)
+![github-header-image (3)](https://github.com/user-attachments/assets/b2da456f-d134-4de5-bd76-6308c055b2f7)
+
 
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
