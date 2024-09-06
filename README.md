@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRkbm5jaW1oZGp3cHhkYXk0NjAxdGY3Ymh4dTJhMnVuMGhiMzk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohandutta1&label=Profile%20views&color=0e75b6&style=flat" alt="rohandutta1" /> </p>
+<!--<img align="right" alt="coding" width="300" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRkbm5jaW1oZGp3cHhkYXk0NjAxdGY3Ymh4dTJhMnVuMGhiMzk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"
+<p align="left"> --><img src="https://komarev.com/ghpvc/?username=rohandutta1&label=Profile%20views&color=0e75b6&style=flat" alt="rohandutta1" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, GPT, LLM, Generative AI, C#**
 
