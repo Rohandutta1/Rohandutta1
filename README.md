@@ -1,4 +1,6 @@
-![github-header-image (3)](https://github.com/user-attachments/assets/b2da456f-d134-4de5-bd76-6308c055b2f7)
+![Rohan Dutta](https://github.com/user-attachments/assets/438863d0-bca4-4234-aa35-8d606d211ae6)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Rohan</h1>
