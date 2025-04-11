@@ -12,7 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-21.vercel.app/](https://my-portfolio-21.vercel.app/)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **Tech**, **Space Exploration**, **Renewable Energy**
+
 
 - 📫 How to reach me **rohandutta650@gmail.com**
 
